@@ -1,4 +1,4 @@
-# Weather Forecast App
+# AccuWeather Forecast App
 
 ## Overview
 The Weather Forecast App lets users search for weather information for any city. It shows current weather, hourly forecasts, and daily forecasts using the AccuWeather API.
@@ -6,7 +6,7 @@ The Weather Forecast App lets users search for weather information for any city.
 ## Use Case
 
 ### **Actors**
-- **User**: The person using the app to check the weather.
+- **User**: The person using the AccuWeather app to check the weather.
 
 ### **Before You Start**
 - You need an internet connection.
@@ -46,7 +46,7 @@ The Weather Forecast App lets users search for weather information for any city.
   - The frontend shows a general error message.
 
 - **Invalid Input**:
-  - If the user types invalid data, the frontend asks for a valid city name.
+  - If the user types invalid data, the frontend show City not found.
 
 ### **After the Search**
 - The user gets the weather information they searched for.
