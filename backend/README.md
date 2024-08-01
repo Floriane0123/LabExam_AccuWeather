@@ -37,10 +37,6 @@ The Weather Forecast App lets users search for weather information for any city.
    - The user views the current temperature, weather description, and forecasts.
 
 ### **Alternative Scenarios**
-- **City Not Found**:
-  - If the city isn’t found, the backend sends an error message.
-  - The frontend shows an error message to the user.
-
 - **API Error**:
   - If there’s a problem with the API, the backend sends an error message.
   - The frontend shows a general error message.
